@@ -7,3 +7,4 @@
 - [Ro‘yxatlar (Lists) va tuplar (Tuples) 📚](./kod04.py)
 - [Ro‘yxatlar bilan ishlash (List Comprehension) 🎨](./kod05.py)
 - [Takrorlash operatorlari (`for`, `while`) 🔄](./kod06.py)
+- [Lug‘atlar (Dictionaries) va to‘plamlar (Sets) 🗂️](./kod07.py)
