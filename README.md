@@ -1,5 +1,6 @@
 # Python Kodlari
 
+## 🔹 Asosiy tushunchalar
 - [O‘zgaruvchilar va ma’lumot turlari 📦](./kod00.py)
 - [Operatorlar (arifmetik, mantiqiy, solishtirish) ➕➖](./kod01.py)
 - [Shart operatorlari (`if-else`, `match-case`) ⚖️](./kod02.py)
@@ -9,4 +10,6 @@
 - [Takrorlash operatorlari (`for`, `while`) 🔄](./kod06.py)
 - [Lug‘atlar (Dictionaries) va to‘plamlar (Sets) 🗂️](./kod07.py)
 - [Lug‘atlarni o‘zgartirish (Qo‘shish, o‘chirish, yangilash) ✏️](./kod08.py)
+
+## 🔹 O‘rta darajadagi tushunchalar
 - [Fayllar bilan ishlash (`open`, `read`, `write`) 📄](./kod09.py)
