@@ -9,3 +9,4 @@
 - [Takrorlash operatorlari (`for`, `while`) 🔄](./kod06.py)
 - [Lug‘atlar (Dictionaries) va to‘plamlar (Sets) 🗂️](./kod07.py)
 - [Lug‘atlarni o‘zgartirish (Qo‘shish, o‘chirish, yangilash) ✏️](./kod08.py)
+- [Fayllar bilan ishlash (`open`, `read`, `write`) 📄](./kod09.py)
