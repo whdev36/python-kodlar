@@ -8,3 +8,4 @@
 - [Ro‘yxatlar bilan ishlash (List Comprehension) 🎨](./kod05.py)
 - [Takrorlash operatorlari (`for`, `while`) 🔄](./kod06.py)
 - [Lug‘atlar (Dictionaries) va to‘plamlar (Sets) 🗂️](./kod07.py)
+- [Lug‘atlarni o‘zgartirish (Qo‘shish, o‘chirish, yangilash) ✏️](./kod08.py)
