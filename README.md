@@ -20,6 +20,7 @@ Ushbu repozitoriya Python dasturlash tilini o'rganish va amaliyot qilish uchun t
 - [Xatolarni ushlash (`try-except`) ⚠️](./kod10.py)
 - [Obyektga yo‘naltirilgan dasturlash (OOP) 🏗️](./kod11.py)
 - [Inkapsulyatsiya, meros olish, polimorfizm 🔐](./kod12.py)
+- [Dekoratorlar va lambda funksiyalar ⚡](./kod13.py)
 
 ## ⏳ Foydalanish  
 1. Ushbu repozitoriyani yuklab oling yoki klonlang:  
