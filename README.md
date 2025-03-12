@@ -17,6 +17,7 @@ Ushbu repozitoriya Python dasturlash tilini o'rganish va amaliyot qilish uchun t
 
 #### 🔹 O‘rta darajadagi tushunchalar
 - [Fayllar bilan ishlash (`open`, `read`, `write`) 📄](./kod09.py)
+- [Xatolarni ushlash (`try-except`) ⚠️](./kod10.py)
 
 ## ⏳ Foydalanish  
 1. Ushbu repozitoriyani yuklab oling yoki klonlang:  
