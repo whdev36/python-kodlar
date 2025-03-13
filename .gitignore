@@ -1,2 +1,5 @@
 TODO.md
 test.py
+env
+__pycache__
+mka/__pycache__
