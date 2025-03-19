@@ -24,6 +24,7 @@ Ushbu repozitoriya Python dasturlash tilini o'rganish va amaliyot qilish uchun t
 - [JSON bilan ishlash (`json` moduli) 📜](./kod14.py)
 - [Modullar va paketlar (`import`) 📦](./kod15.py)
 - [API’lar bilan ishlash (`requests`) 🌍](./kod16.py)
+- [Asinxron dasturlash (`asyncio`) ⏳](./kod17.py)
 
 ## ⏳ Foydalanish  
 1. Ushbu repozitoriyani yuklab oling yoki klonlang:  
