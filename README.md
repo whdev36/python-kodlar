@@ -25,6 +25,7 @@ Ushbu repozitoriya Python dasturlash tilini o'rganish va amaliyot qilish uchun t
 - [Modullar va paketlar (`import`) 📦](./kod15.py)
 - [API’lar bilan ishlash (`requests`) 🌍](./kod16.py)
 - [Asinxron dasturlash (`asyncio`) ⏳](./kod17.py)
+- [Ma’lumotlar bazasi (`sqlite3`, `SQLAlchemy`) 🗄️](./kod18.py)
 
 ## ⏳ Foydalanish  
 1. Ushbu repozitoriyani yuklab oling yoki klonlang:  
