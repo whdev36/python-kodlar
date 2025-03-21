@@ -27,6 +27,9 @@ Ushbu repozitoriya Python dasturlash tilini o'rganish va amaliyot qilish uchun t
 - [Asinxron dasturlash (`asyncio`) ⏳](./kod17.py)
 - [Ma’lumotlar bazasi (`sqlite3`, `SQLAlchemy`) 🗄️](./kod18.py)
 
+#### 🔹 Ilg‘or Python tushunchalari
+- [Test yozish (`unittest`, `pytest`) 🧪](./kod19.py)
+
 ## ⏳ Foydalanish  
 1. Ushbu repozitoriyani yuklab oling yoki klonlang:  
    ```bash  
